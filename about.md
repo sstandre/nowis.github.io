@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: Acerca de mí
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+El autor de este blog es una persona muy reservada
+y no quiere que sepan mucho de él.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Throw a letter into the eastern winds.
